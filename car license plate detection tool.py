@@ -1,5 +1,4 @@
 import cv2
-#import pytesseract
 
 # Read the image file
 image = cv2.imread('p1.jpg')
